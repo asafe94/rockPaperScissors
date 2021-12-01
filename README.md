@@ -1,4 +1,4 @@
-jokenpo
+#rockPaperScissors
 
 Objective: Create a JoKenPo game.
 
